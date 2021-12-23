@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project Description
 
-This small project is based on employees submitting reimbursements through a company website, and managers approving or denying those reimbursements
+This small project is based on employees being able to submit reimbursements through a company website, and managers approving or denying those reimbursements. Employee and Managers alike can login into their respective user accounts which will be tracked through the front-end side till that user logs out.
+Employees will be able to sort through their reimbursements from pending to resolved as well as update their passwords on their profile page. Managers will be able to sort through an individual employee's reimbursements and make any necessary updates, while being able to see the list of all the current employees.
 
 ## Technologies Used
   * Angular (Web Framework)
